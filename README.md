@@ -1,0 +1,2 @@
+ISRI-Arabic-Stemmer
+===================
